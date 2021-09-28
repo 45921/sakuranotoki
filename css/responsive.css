@@ -1,0 +1,220 @@
+@charset "utf-8";
+@media screen and (max-width: 1800px) {
+    .header_bg {
+        background-position: 0 -50px;
+    }
+}
+
+@media screen and (max-width: 1350px) {
+    .twitter_share {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1310px) {
+    .topSlide,
+    .topSlide_sp {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .header_bg {
+        background-position: 0 -30px;
+    }
+    .sakura2 {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    #top_logo {
+        bottom: -200px;
+    }
+    #top_bg .flex_area {
+        padding-top: 100px;
+    }
+    .news_logo {
+        left: 36px;
+    }
+    .character_box_1 {
+        height: auto;
+    }
+    .character_box_1 .chara_name {
+        font-size: 2.7rem;
+    }
+    .character_box_1 .chara_cv {
+        font-size: .8rem;
+    }
+    #gallery_area {
+        padding: 3.5% 0 4.5%;
+    }
+    footer {
+        padding: 3% 0;
+    }
+}
+
+@media screen and (max-width:1150px) {
+    .header_logo {
+        width: 5%;
+        margin-left: 3%;
+    }
+    .header_hover {
+        bottom: -15px !important;
+    }
+    #mainvisual_area {
+        margin-top: 40px;
+    }
+}
+
+@media screen and (max-width:1070px) {
+    .header_menu {
+        left: 0;
+        width: auto;
+    }
+    .header_logo {
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width:1050px) {
+    .main_gallery_box0 {
+        margin-left: auto;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    #chara3 {
+        transform: translateX(5%);
+    }
+    #chara_name_4 {
+        width: 100%;
+    }
+    .cbox_gallerySlide .gallery_intro {
+        line-height: 1.5rem;
+    }
+}
+
+@media screen and (max-width:980px) {
+    .others_modal_box .oncv {
+        font-size: 2.4rem;
+        line-height: 2.5rem;
+    }
+    #other11 .others_name,
+    #other12 .others_name {
+        font-size: 2rem;
+    }
+    .others_modal_box .others_cv {
+        width: auto;
+        padding-top: 0;
+        font-size: 0.8rem;
+    }
+    .others_modal_box .others_name_box {
+        flex-direction: column !important;
+    }
+}
+
+@media screen and (max-width: 940px) {
+    .header_li div {
+        display: none;
+    }
+    .header_li {
+        padding-left: 0;
+        margin: auto 8px !important;
+    }
+    .character_box_2 .chara_name,
+    .character_box_3 .chara_name,
+    .character_box_4 .chara_name {
+        font-size: 2.5rem;
+    }
+    .character_box_2 .chara_cv,
+    .character_box_3 .chara_cv,
+    .character_box_4 .chara_cv {
+        font-size: .9rem;
+    }
+}
+
+@media screen and (max-width: 920px) {
+    .top_arrow_l {
+        left: -30px;
+    }
+    .top_arrow_r {
+        right: -30px;
+    }
+    #other13 .others_name {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .character_box_1 .chara_name {
+        font-size: 2.0rem;
+    }
+    .character_box_1 .chara_cv {
+        font-size: .64rem;
+    }
+    #chara_name_1 {
+        line-height: 3rem;
+    }
+    #chara_name_2 {
+        line-height: 2.5rem;
+        margin: auto auto 0 auto;
+    }
+}
+
+@media screen and (max-width: 830px) {
+    .chara_arrow_l {
+        left: -40px;
+    }
+    .chara_arrow_r {
+        right: -40px;
+    }
+    .character_box_2 .chara_name,
+    .character_box_3 .chara_name,
+    .character_box_4 .chara_name {
+        font-size: 2.1rem;
+    }
+    #chara_name_3,
+    #chara_name_4,
+    #chara_name_5,
+    #chara_name_6,
+    #chara_name_7,
+    #chara_name_8 {
+        line-height: 3rem !important;
+    }
+    .character_box_2 .chara_cv,
+    .character_box_3 .chara_cv,
+    .character_box_4 .chara_cv {
+        font-size: .8rem;
+    }
+    #chara_intro_1,
+    #chara_intro_1-1,
+    #chara_intro_2,
+    #chara_intro_2-1,
+    .chara_intro_scroll {
+        font-size: .7rem;
+    }
+    .change1,
+    .change1-1 {
+        bottom: 30px;
+    }
+    #chara_period_1 {
+        bottom: 0;
+    }
+    #chara_period_2 {
+        bottom: 0;
+    }
+}
+
+@media screen and (max-width:780px) {
+    .header_bg {
+        background-position: 0 -20px;
+    }
+}
+
+@media screen and (max-width:780px) {
+    .others_modal_box .oncv {
+        font-size: 2.4rem;
+        line-height: 2.5rem;
+    }
+}
